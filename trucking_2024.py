@@ -56,7 +56,11 @@ def main():
         print_slow("Congratulations! You successfully delivered all the candies. The children are happy!")
     else:
         print_slow("Some deliveries were missed. The children are disappointed, but you did your best.")
-    print_slow("Thank you for playing!")
+    print_slow("Thank you for playing!\n")
+    print_slow('''🌐 Greynoise helps you focus on real threats by filtering out internet noise. 
+
+Learn more at greynoise.io''')
+    
 
 def greynoise_solution(problem):
     if problem == "strange signals interfering with your truck's systems":
