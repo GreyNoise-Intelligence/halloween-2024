@@ -6,16 +6,15 @@
 Get ready to embark on a thrilling Halloween adventure! As a fearless truck driver, your mission is to deliver candies to towns filled with eager children. But beware—the night is dark, and the road is fraught with spooky, cyber-themed obstacles. Will you deliver joy or succumb to the mysterious challenges ahead?
 
 ## Game Overview 🕸️
-👻 Theme: A Halloween trucking journey with a cybersecurity twist.
-🎯 Objective: Successfully deliver candies to all the assigned towns.
-🧩 Mechanics: Utilize Greynoise's RIOT and NOISE data to navigate through eerie obstacles.
-💻 Visuals: Retro green text mimicking an old computer terminal for that nostalgic feel.
-⏱️ Playtime: Approximately 10 minutes.
+- 👻 Theme: A Halloween trucking journey with a cybersecurity twist.
+- 🎯 Objective: Successfully deliver candies to all the assigned towns.
+- 🧩 Mechanics: Utilize Greynoise's RIOT and NOISE data to navigate through eerie obstacles.
+- 💻 Visuals: Retro green text mimicking an old computer terminal for that nostalgic feel.
+- ⏱️ Playtime: Approximately 10 minutes.
 
 ## How to Play 🦇
-1. Setup 💾
-Prerequisites: Ensure you have Python 3 installed.
-2. Download: Save the game script as halloween_trucking_game.py.
+1. Setup 💾 (Ensure you have Python 3 installed)
+2. Download: Save the game file.
 3. Run the Game 🚀
 4. Gameplay 🎮
 
@@ -50,9 +49,9 @@ Windows Users: If using Command Prompt, enable virtual terminal processing or sw
 ## Contribution Guidelines 🎁
 We welcome contributions to enhance the game!
 
-Fork the Repo: Make your own copy to work on.
-Submit Pull Requests: Share your improvements with the community.
-Report Issues: Found a bug or have a suggestion? Open an issue.
+- Fork the Repo: Make your own copy to work on.
+- Submit Pull Requests: Share your improvements with the community.
+- Report Issues: Found a bug or have a suggestion? Open an issue.
 
 ## License 📜
 This project is open-source under the MIT License. Feel free to use, modify, and distribute!
@@ -62,4 +61,4 @@ May your journey be swift, your wits sharp, and your deliveries successful. The 
 
 Note: If you encounter any issues or need assistance, please reach out or open an issue on the project's repository.
 
-Embrace the spooky spirit and enjoy this unique blend of Halloween fun and cybersecurity adventure!
+_Embrace the spooky spirit and enjoy this unique blend of Halloween fun and cybersecurity adventure!_
