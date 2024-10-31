@@ -15,24 +15,15 @@ Get ready to embark on a thrilling Halloween adventure! As a fearless truck driv
 ## How to Play 🦇
 1. Setup 💾
 Prerequisites: Ensure you have Python 3 installed.
-Download: Save the game script as halloween_trucking_game.py.
-2. Run the Game 🚀
-Open Terminal: Use a terminal that supports ANSI escape codes (for green text).
+2. Download: Save the game script as halloween_trucking_game.py.
+3. Run the Game 🚀
+4. Gameplay 🎮
 
-Navigate: Go to the directory containing the script.
-
-Execute: Run the game with the command:
-`bash`
-
-Copy code
-`python3 halloween_trucking_game.py`
-3. Gameplay 🎮
-Enter Your Name: When prompted, type your name to personalize your journey.
-
-Face Challenges: You'll encounter spooky, cybersecurity-themed problems.
-Consult Greynoise Data: Use RIOT and NOISE insights to decide your course of action.
-Make Decisions: Choose wisely whether to follow Greynoise recommendations.
-Complete Deliveries: Aim to deliver candies to all the towns and make the children happy!
+- Enter Your Name: When prompted, type your name to personalize your journey.
+- Face Challenges: You'll encounter spooky, cybersecurity-themed problems.
+- Consult Greynoise Data: Use RIOT and NOISE insights to decide your course of action.
+- Make Decisions: Choose wisely whether to follow Greynoise recommendations.
+- Complete Deliveries: Aim to deliver candies to all the towns and make the children happy!
 
 ### Storyline 🌙
 It's Halloween night, and the clock is ticking. You are the last hope for children waiting eagerly for their treats. But the road ahead is anything but ordinary. Strange signals, suspicious activities, and mysterious noises lurk around every corner. Armed with Greynoise's RIOT and NOISE data, can you navigate these perils and complete your mission?
@@ -43,7 +34,8 @@ It's Halloween night, and the clock is ticking. You are the last hope for childr
 - Randomized Events: Each playthrough offers a new set of challenges and towns.
 - Retro Aesthetics: Enjoy the nostalgia of old-school green terminal text.
 
-About Greynoise 🌐
+
+### About Greynoise 🌐
 Greynoise helps you focus on real threats by filtering out internet noise. In this game, you'll leverage:
 
 - RIOT (Rule It Out): Identifies benign background activity, so you don't waste time on false alarms.
