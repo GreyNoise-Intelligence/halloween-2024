@@ -5,7 +5,7 @@
 ## Welcome, Brave Driver! 👻
 Get ready to embark on a thrilling Halloween adventure! As a fearless truck driver, your mission is to deliver candies to towns filled with eager children. But beware—the night is dark, and the road is fraught with spooky, cyber-themed obstacles. Will you deliver joy or succumb to the mysterious challenges ahead?
 
-##Game Overview 🕸️
+## Game Overview 🕸️
 👻 Theme: A Halloween trucking journey with a cybersecurity twist.
 🎯 Objective: Successfully deliver candies to all the assigned towns.
 🧩 Mechanics: Utilize Greynoise's RIOT and NOISE data to navigate through eerie obstacles.
