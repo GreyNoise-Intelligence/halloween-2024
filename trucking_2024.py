@@ -1,4 +1,6 @@
-# Halloween Trucking Simulation Game with Green Font
+# Halloween Trucking Simulation Game
+# Date: October 31, 2024
+# Written by Greynoise
 
 import random
 import time
@@ -7,11 +9,11 @@ def print_slow(str):
     green_text = "\033[32m" + str + "\033[0m"
     for letter in green_text:
         print(letter, end='', flush=True)
-        time.sleep(0.01)
+        time.sleep(0.02)
     print()
 
 def main():
-    print_slow("Welcome to the Halloween Trucking Simulation Game!")
+    print_slow("Welcome to the GreyNoise Halloween Trucking Simulation Game!")
     print_slow("You are a truck driver tasked with delivering Halloween candies to various towns.")
     print_slow("However, spooky obstacles await you on the road...")
     name = input("\033[32mFirst, what's your name, driver? \033[0m")
@@ -57,16 +59,20 @@ def main():
     print_slow("Thank you for playing!")
 
 def greynoise_solution(problem):
-    if problem == "a haunted bridge":
-        return "the bridge is an illusion. Proceed with caution and you'll pass through safely."
-    elif problem == "a roadblock by mischievous spirits":
-        return "the spirits are attracted to light. Use your headlights to distract them and clear the path."
-    elif problem == "a cyber-attack on your GPS":
-        return "resetting your GPS and using a physical map will help you navigate around the cyber interference."
-    elif problem == "an eerie fog causing low visibility":
-        return "taking a detour through the Whispering Woods, as per the data, will bypass the fog."
+    if problem == "strange signals interfering with your truck's systems":
+        return ("Greynoise RIOT data indicates these signals are benign background noise from known sources. "
+                "You can safely proceed without concern.")
+    elif problem == "suspicious activities detected on your route":
+        return ("Greynoise NOISE data shows this is potential malicious activity. "
+                "It's recommended to reroute to avoid any threats.")
+    elif problem == "unexpected network traffic affecting your GPS":
+        return ("Using Greynoise RIOT, you identify the traffic as common internet noise. "
+                "Resetting your GPS should resolve the issue.")
+    elif problem == "unusual background noise causing distractions":
+        return ("Greynoise data confirms the noise is harmless ambient activity. "
+                "Focus on your route, and you'll be fine.")
     else:
-        return "the data suggests to wait until dawn, but time is of the essence!"
+        return ("the data suggests caution. Proceed carefully while monitoring Greynoise updates.")
 
 if __name__ == "__main__":
     main()
