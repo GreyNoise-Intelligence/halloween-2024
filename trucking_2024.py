@@ -9,7 +9,7 @@ def print_slow(str):
     green_text = "\033[32m" + str + "\033[0m"
     for letter in green_text:
         print(letter, end='', flush=True)
-        time.sleep(0.02)
+        time.sleep(0.01)
     print()
 
 def main():
@@ -28,10 +28,10 @@ def main():
         print_slow("But wait, there's a problem ahead!")
 
         problem = random.choice([
-            "a haunted bridge",
-            "a roadblock by mischievous spirits",
-            "a cyber-attack on your GPS",
-            "an eerie fog causing low visibility"
+            "strange signals interfering with your truck's systems",
+            "suspicious activities detected on your route",
+            "unexpected network traffic affecting your GPS",
+            "unusual background noise causing distractions"
         ])
         print_slow(f"You encounter {problem}.")
 
